@@ -14,7 +14,7 @@ author: Aryan Malhotra
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+  Blog: 
     - Guide to OSCP: "http://www.hackersinterview.com/category/oscp/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
