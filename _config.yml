@@ -15,7 +15,7 @@ author: Aryan Malhotra
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
-    - Guide to OSCP 
+    - Guide to OSCP: "http://www.hackersinterview.com/category/oscp/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "< Yet to update"
+url-pretty: "Yet to update"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
