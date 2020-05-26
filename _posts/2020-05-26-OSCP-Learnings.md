@@ -1,9 +1,10 @@
 ---
 layout: post
-title: OSCP Learnings
-subtitle: Few sub blogs will also be there
+title: OSCP Series
+subtitle: OSCP Overview
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+
+[//]: # gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
 tags: [test]
 comments: true
