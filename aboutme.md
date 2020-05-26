@@ -10,9 +10,9 @@ Passoinate Cyber Security enthusiast
 
 Key Interest : 
 
-✔ Web Application Penetration Testing(WAPT)
-✔ Vulnerability Assessment and Penetration Testing(VAPT)
-✔ Network Penetration Testing (NPT)
+✔ Web Application Penetration Testing(WAPT)  
+✔ Vulnerability Assessment and Penetration Testing(VAPT)  
+✔ Network Penetration Testing (NPT)  
 ✔ Automation with Shell Scripting
 
 TOOLS KNOWN - 
