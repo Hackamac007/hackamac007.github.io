@@ -11,8 +11,12 @@ My name is H@x0r. I am passoinate Cyber Security enthusiast and some of the key 
 *  Network Penetration Testing (NPT)  
 *  Automation with Shell Scripting
 
-TOOLS KNOWN - 
-Nmap, dimtry, netdiscover, fping, wireshark, traceroute, nslookup, anygryipscanner, nikto, burpsuite, acunatix, Vega, Owasp Zap, OWASP Xenotix, sqlmap, netsparker,Metasploit, John-the-Ripper
+
+#### Languages  
+Java • Linux • SQL Python • Bash • Assembly Lua • YARA • Docker • Kubernetes  
+
+#### Tools known 
+Nmap, dimtry, netdiscover, fping, wireshark, traceroute, nslookup, anygryipscanner, nikto, burpsuite, acunatix, Vega, Owasp Zap, OWASP Xenotix, sqlmap, netsparker,Metasploit, John-the-Ripper  
 Android  - Drozer, Introspy
 
 ### GOAL
