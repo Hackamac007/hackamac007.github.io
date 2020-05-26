@@ -23,4 +23,5 @@ var foo = function(Hardwork, Persistance) {
 
 ## How about a guide to OSCP?
 
-One of the most recoommended guide to OSCP[Detailed Guide to prepare for OSCP](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+One of the most recoommended guide to OSCP
+[Detailed Guide to prepare for OSCP](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
