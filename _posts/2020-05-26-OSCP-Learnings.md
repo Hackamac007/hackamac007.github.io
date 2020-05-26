@@ -1,12 +1,12 @@
 ---
 layout: post
-title: OSCP Series
+title: OSCP 
 subtitle: OSCP Overview
 gh-repo: daattali/beautiful-jekyll
 
 [//]: # gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
-tags: [test]
+tags: [OSCP, Pentest, Red Team]
 comments: true
 ---
 
