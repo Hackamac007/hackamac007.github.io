@@ -6,10 +6,10 @@ subtitle: Why you'd want to go on a date with me
 
 My name is H@x0r. I am passoinate Cyber Security enthusiast and some of the key interests are - 
 
-* ✔ Web Application Penetration Testing(WAPT)  
-* ✔ Vulnerability Assessment and Penetration Testing(VAPT)  
-* ✔ Network Penetration Testing (NPT)  
-* ✔ Automation with Shell Scripting
+*  Web Application Penetration Testing(WAPT)  
+*  Vulnerability Assessment and Penetration Testing(VAPT)  
+*  Network Penetration Testing (NPT)  
+*  Automation with Shell Scripting
 
 TOOLS KNOWN - 
 Nmap, dimtry, netdiscover, fping, wireshark, traceroute, nslookup, anygryipscanner, nikto, burpsuite, acunatix, Vega, Owasp Zap, OWASP Xenotix, sqlmap, netsparker,Metasploit, John-the-Ripper
