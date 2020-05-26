@@ -4,6 +4,7 @@ title: OSCP Learnings
 subtitle: Few sub blogs will also be there
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/path.jpg
 tags: [test]
 comments: true
 ---
