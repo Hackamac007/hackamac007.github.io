@@ -15,7 +15,7 @@ Offensive Security Certified Professional (OSCP) is an ethical hacking certifica
 
 ## How about a guide to OSCP?
 
-One of the most recoommended guide to OSCP
+One of the most recoommended guide to OSCP: 
 [Detailed Guide to prepare for OSCP](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 
 ## Ultimately, what OSCP is all about?
