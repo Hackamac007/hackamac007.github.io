@@ -1,24 +1,24 @@
 # --- Basic options --- #
 
 # Name of website
-title: Guide to Nirvana
-subtitle: You will know all about me below
+title: Cyber Security
+subtitle: Approach to get into Cyber Security domain
 
 # Short description of your site
 description: "Better to write a couple of lines of code to potentially break millions of lines of it"
 
 # Your name to show in the footer
-author: Aryan Malhotra
+author: Aryan
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Blog: 
-    - Guide to OSCP: "http://www.hackersinterview.com/category/oscp/"
+    - OSCP: "http://www.hackersinterview.com/category/oscp/"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - SANS cheatsheet: "https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/"
+    - Awesome OSCP: "https://github.com/0x4D31/awesome-oscp"
   Author's home: "https://hackamac007.github.io"
 
 
@@ -33,7 +33,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer options --- #
