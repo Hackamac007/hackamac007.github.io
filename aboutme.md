@@ -4,7 +4,7 @@ title: About me
 subtitle: Lazy Ethical Hacker who likes to read across domains
 ---
 
-My name is H@x0r. I am passoinate Cyber Security enthusiast and some of the key interests are - 
+My name is H@x0r. I am passoinate Cyber Security enthusiast and some of my key interests are - 
 
 *  Web Application Penetration Testing(WAPT)  
 *  Vulnerability Assessment and Penetration Testing(VAPT)  
