@@ -24,7 +24,7 @@ and it will answer all your questions.
 
 ### Note
 * First, you have to believe that you are qualified, then you have to convince someone else (the recruiter/hiring manager) that you are qualified.
-* Skills may be outdated, but passion to reskill and upskill is something I believe in. 
+* Skills may be outdated, but passion to reskill and upskill sets you apart
 * Push your learnings to catapult your confidence to next level
 * Repetition until your learning becomes unconscious
 
