@@ -2,7 +2,7 @@
 layout: post
 title: OSCP 
 subtitle: OSCP Overview
-gh-repo: daattali/beautiful-jekyll
+[//]: # gh-repo: daattali/beautiful-jekyll
 
 [//]: # gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
