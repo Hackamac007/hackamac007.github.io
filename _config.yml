@@ -33,7 +33,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+#title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer options --- #
@@ -69,10 +69,13 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  telegram: true
+  instagram: true
+  
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Yet to update"
+#url-pretty: "Yet to update"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
