@@ -2,7 +2,7 @@
 layout: post
 title: Network Security
 subtitle: Overview
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/osi.gif
 tags: [Network, Security]
 ---
 
