@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Lazy Ethical Hacker who likes to read across domains
 ---
 
 My name is H@x0r. I am passoinate Cyber Security enthusiast and some of the key interests are - 
