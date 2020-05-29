@@ -27,7 +27,7 @@ Steps-
 * Get SNMP IP from Wireshark 
 * Use snmpcheck -t IP
 
-**Cracking SNMP community strings( if not set to "public")**
+**Cracking SNMP community strings( if not set to "public")
 
 	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt
 
@@ -43,7 +43,7 @@ This exploit requires;
 
 Note : The EXTRABACON exploit is a python script that you can [download here](https://github.com/blahdidbert/extrabacon).
 
-**Using Extrabacon:**
+**Using Extrabacon:
 		
 	kali > ./extrabacon info -t 192.168.1.101 -c hackers-arise
 		This will return a file that we need in exec mode of EXTRABACON. Here, I have named that file OTW
