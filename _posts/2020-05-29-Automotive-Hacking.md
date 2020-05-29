@@ -31,6 +31,8 @@ Steps-
 
 	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt  
 
+  
+
 #### Zero Day :[NSA Exploit in CISCO ASA]( https://www.hackers-arise.com/post/2016/08/22/the-extrabacon-zero-day-exploit-on-cisco-asa-firewalls)
 
 According to Cisco, this EXTRABACON exploit enables  attackers within the network and with the SNMP community string to execute code remotely on their firewalls. In essence, the appliance designed to protect our network is compromised making the entire network unsafe. Like so many other pieces of remote code execution malware, EXTRABACON takes advantage of a buffer overflow in the code of the affected device
