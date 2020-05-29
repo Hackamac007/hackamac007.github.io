@@ -31,8 +31,6 @@ Steps-
 
 	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt
 
-
-
 #### Zero Day :[NSA Exploit in CISCO ASA]( https://www.hackers-arise.com/post/2016/08/22/the-extrabacon-zero-day-exploit-on-cisco-asa-firewalls)
 
 According to Cisco, this EXTRABACON exploit enables  attackers within the network and with the SNMP community string to execute code remotely on their firewalls. In essence, the appliance designed to protect our network is compromised making the entire network unsafe. Like so many other pieces of remote code execution malware, EXTRABACON takes advantage of a buffer overflow in the code of the affected device
@@ -51,7 +49,6 @@ Note : The EXTRABACON exploit is a python script that you can [download here](ht
 		This will return a file that we need in exec mode of EXTRABACON. Here, I have named that file OTW
 	kali > ./extrabacon_1.1.0.1.py exec -k OTW -t 192.168.1.101 -c hackers-arise --mode pass-enable
 		When the exploit is successful, it will execute the shellcode on the Cisco ASA firewall, giving the attacker complete control!
-		
 
 #### Defenses
 Until Cisco releases a patch for this exploit, there are two best defenses you can apply for the time being-
