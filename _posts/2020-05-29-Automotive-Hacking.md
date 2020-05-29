@@ -34,3 +34,4 @@ Until Cisco releases a patch for this exploit, your best defenses are two.
 
 For more info - [Reference](https://www.hackers-arise.com/post/2019/03/23/network-basics-for-hackers-simple-network-management-protocol-snmp-theory-reconnaissance)
 Zero Day - [NSA Exploit in CISCO ASA]( https://www.hackers-arise.com/post/2016/08/22/the-extrabacon-zero-day-exploit-on-cisco-asa-firewalls)
+Car Hacking with Python - [Medium](https://medium.com/bugbountywriteup/car-hacking-with-python-part-1-data-exfiltration-gps-and-obdii-can-bus-69bc6b101fd1)
