@@ -6,8 +6,13 @@ cover-img: /assets/img/path.jpg
 tags: [API, Security]
 ---
 
-#### How does network security work?
-Network security combines multiple layers of defenses at the edge and in the network. Each network security layer implements policies and controls. Authorized users gain access to network resources, but malicious actors are blocked from carrying out exploits and threats.
+#### About 
+Internet security is a topic which has been discussed increasingly quite often by technology blogs and forums and with valid reason: the numerous high profile security breaches have grown up significantly in recent years. Security is of great importance, especially in the world of REST APIs.
+
+API security is the single biggest challenge organizations want to see solved in the years ahead, and solving the security challenge is expected to be a catalyst for growth in the API world.
+
+#### Security of REST API
+Securities issues must be an important aspect to consider any time REST API is been design, testing, and deploying. With the mind-blowing development of REST APIs, the security levels most times are underestimated in the design and development of the API. Security of sensitive data, be it organizational or personal information, is an important factor troubling developers and everybody nowadays. REST APIs is not an exception, being part of essential systems that require protection against security threats and breaches
 
 ### Common API security issues
 * Access controls
