@@ -3,7 +3,7 @@ layout: post
 title: Automotive Hacking
 subtitle: Overview and Notes
 cover-img: /assets/img/path.jpg
-tags: [API, Security]
+tags: [Automotive, Hacking, Security]
 ---
 
 This exploit requires;
