@@ -20,8 +20,9 @@ SYN scan
 SYN 
 ACK+SYN
 RST
-```
-
+```  
+  
+  
 #### Running NMAP
 
 nmap -A -T4 -p- <i.p>
