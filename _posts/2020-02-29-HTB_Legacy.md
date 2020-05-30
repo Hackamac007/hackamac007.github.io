@@ -6,14 +6,16 @@ cover-img: /assets/img/path.jpg
 tags: [Pentesting, Vulnerability Assessment, CTF, NMAP, Meterpreter]
 ---
 
-TCP scan - 
+#### Differnce between TCP and SYN scan
+
+TCP scan 
  ```
  SYN 
  ACK+SYN
  ACK
 ```
 
-SYN scan -
+SYN scan
 ```
 SYN 
 ACK+SYN
