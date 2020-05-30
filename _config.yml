@@ -20,7 +20,7 @@ navbar-links:
     - SANS cheatsheet: "https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/"
     - Awesome OSCP: "https://github.com/0x4D31/awesome-oscp"
   Writeup: 
-    - HTB Legacy: 
+    - HTB Legacy: "https://xkeyscore007.github.io/2020-02-29-HTB_Legacy/"
   Author's home: "https://hackamac007.github.io"
 
 
