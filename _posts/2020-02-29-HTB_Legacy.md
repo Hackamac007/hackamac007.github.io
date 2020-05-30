@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Network Security
-subtitle: HTB Legacy
+title:  HTB Legacy Writeup
+subtitle: HackTheBox 
 cover-img: /assets/img/path.jpg
 tags: [Pentesting, Vulnerability Assessment, CTF, NMAP, Meterpreter]
 ---
