@@ -1,3 +1,10 @@
+---
+layout: post
+title: Network Security
+subtitle: HTB Legacy
+cover-img: /assets/img/path.jpg
+tags: [Pentesting, Vulnerability Assessment, CTF, NMAP, Meterpreter]
+---
 
 TCP scan - 
  ```
@@ -37,6 +44,8 @@ nmap -A -T4 -p- <i.p>
       ◇ Will redirect to System32 
 ⇒ Crack the passwords
 
+
+#### For detailed explanation : [Another approach](https://medium.com/@ranakhalil101/hack-the-box-legacy-writeup-w-o-metasploit-2d552d688336)
 
 
 
