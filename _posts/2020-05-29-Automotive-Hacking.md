@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automotive Hacking
+title: Automotive Security/Hacking
 subtitle: Overview and Notes
 cover-img: /assets/img/path.jpg
 tags: [Automotive, Hacking, Security]
